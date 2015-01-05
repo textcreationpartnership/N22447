@@ -119,8 +119,8 @@
    <text xml:lang="eng">
       <front>
          <div type="illustration">
-            <pb facs="tcp:029659_0000_0FE213A690DE38D8"/>
-            <pb facs="tcp:029659_0001_0FE2129DC1495880"/>
+            <pb facs="unknown:029659_0000_0FE213A690DE38D8"/>
+            <pb facs="unknown:029659_0001_0FE2129DC1495880"/>
             <p>
                <figure>
                   <head>JOHN TRUMBULL ESQ.</head>
@@ -128,7 +128,7 @@
             </p>
          </div>
          <div type="title_page">
-            <pb facs="tcp:029659_0002_0FE2129F4F1B4770"/>
+            <pb facs="unknown:029659_0002_0FE2129F4F1B4770"/>
             <p>M'FINGAL: A MODERN EPIC POEM, IN FOUR CANTOS.</p>
             <p>BY JOHN TRUMBULL, ESQ.</p>
             <p>EMBELLISHED WITH NINE COPPER PLATES; DESIGNED AND ENGRAVED BY <hi>E. TISDALE.</hi>
@@ -165,25 +165,25 @@
             <p>NEW-YORK: PRINTED BY <hi>JOHN BUEL,</hi> No. 132, FLY-MARKET. M, DCC, XCV.</p>
          </div>
          <div type="preface">
-            <pb facs="tcp:029659_0003_0FE212A5A5EE28C8"/>
+            <pb facs="unknown:029659_0003_0FE212A5A5EE28C8"/>
             <head>EDITORS PREFACE TO THE AMERICAN EDITION, WITH PLATES.</head>
             <p>THE following Poem was firſt publiſh<g ref="char:EOLhyphen"/>ed in 1782, in the ſtate of Connecticut, where the Author was born, and received his education, and where he now reſides. It has paſſed through ſeveral impreſſions in this country, and Great-Britain, and has obtained univerſal celebrity.</p>
             <p>In 1792 a ſplendid edition of it appear<g ref="char:EOLhyphen"/>ed in London, with explanatory notes. So far as theſe notes contain facts, and ſerve to elucidate paſſages, which would be otherwiſe obſcure, they are <gap reason="illegible: indecipherable" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap>
-               <pb n="iv" facs="tcp:029659_0004_0FE212A7810CFB60"/>
+               <pb n="iv" facs="unknown:029659_0004_0FE212A7810CFB60"/>
 in this edition: But as that London edi<g ref="char:EOLhyphen"/>tion was publiſhed to anſwer the purpoſes of a party, and the Editor has taken the liberty to miſrepreſent the views of the Author, the preface and ſuch of the notes as were inſerted for that purpoſe, are here omitted. This is done at the re<g ref="char:EOLhyphen"/>queſt of the author, with whoſe permiſſi<g ref="char:EOLhyphen"/>on, this edition is offered to the Ameri<g ref="char:EOLhyphen"/>can public.</p>
             <p>The deſign of the Poem will beſt ap<g ref="char:EOLhyphen"/>pear from its general tenor. The Au<g ref="char:EOLhyphen"/>thor, at the time the oppoſition of Ame<g ref="char:EOLhyphen"/>rica to the unjuſt claims of the Britiſh Parliament, was maturing into ſyſtem, liv<g ref="char:EOLhyphen"/>ed in Boſton with one of the principal projectors of American Independence. He eſpouſed the cauſe of his country, and became intimately acquainted with the tranſactions of the early revolutioniſts, and all the meaſures of the Britiſh agents, to counter-act the oppoſition. This appears by a number of Anecdotes, very humor<g ref="char:EOLhyphen"/>ouſly related, in the courſe of the Poem.</p>
             <p>
-               <pb n="v" facs="tcp:029659_0005_0FE212A9E7BA93F8"/>That the Author is a warm friend of American Independence, is obvious, from the whole tenor of the work; and the principal ſcope of the Poem ſeems to have been, to ridicule the claims of the Bri<g ref="char:EOLhyphen"/>tiſh Parliament, and the meaſures purſued to enforce thoſe claims. At the ſame time, the abſurdities and miſconduct of his own countrymen have not eſcaped his no<g ref="char:EOLhyphen"/>tice.</p>
+               <pb n="v" facs="unknown:029659_0005_0FE212A9E7BA93F8"/>That the Author is a warm friend of American Independence, is obvious, from the whole tenor of the work; and the principal ſcope of the Poem ſeems to have been, to ridicule the claims of the Bri<g ref="char:EOLhyphen"/>tiſh Parliament, and the meaſures purſued to enforce thoſe claims. At the ſame time, the abſurdities and miſconduct of his own countrymen have not eſcaped his no<g ref="char:EOLhyphen"/>tice.</p>
             <p>The Author is no friend to monarchy, nor ariſtocracy; nor is he a raving de<g ref="char:EOLhyphen"/>mocrat. He is a friend of republican go<g ref="char:EOLhyphen"/>vernment, and rational liberty—that liber<g ref="char:EOLhyphen"/>ty which is ſecured by juſt laws, and a ſteady adminiſtration of juſtice. But it is not true that the Poem was written with the ſole view to ridicule any particular form of government.</p>
             <p>The ſcene of the Poem is laid in Maſſa<g ref="char:EOLhyphen"/>chuſetts, where the Revolution originated. The time is in 1775. M'FINGAL the hero, is deſigned to repreſent the tory fac<g ref="char:EOLhyphen"/>tion
-<pb n="vi" facs="tcp:029659_0006_0FE212AC5156FED0"/>
+<pb n="vi" facs="unknown:029659_0006_0FE212AC5156FED0"/>
 in general: and HONORIUS, the whigs.</p>
             <p>It is unneceſſary to ſay any thing of the merit of the Poem. This is univerſally acknowledged; and the Poem will conti<g ref="char:EOLhyphen"/>nue to be read and admired, while true taſte and ſcience adorn the civilized world. The Philoſopher in his cloſet, the travel<g ref="char:EOLhyphen"/>ler on his voyage, and the man of buſi<g ref="char:EOLhyphen"/>neſs at his fire-ſide, will always find M'FINGAL, an inſtructive friend, and a pleaſant companion.</p>
             <p>The Editors have taken particular pains, to render this edition, worthy of public patronage. The explanatory notes will give this impreſſion a great advantage over any American edition. Indeed with<g ref="char:EOLhyphen"/>out them, many paſſages alluding to lo<g ref="char:EOLhyphen"/>cal cuſtoms, or deſcriptive of local tranſac<g ref="char:EOLhyphen"/>tions, could not be underſtood by a great proportion of readers.</p>
             <p>But the <hi>Plates</hi> added to this edition, are an improvement on all former ones,
-<pb n="vii" facs="tcp:029659_0007_0FE212AFF0FE30C8"/>
+<pb n="vii" facs="unknown:029659_0007_0FE212AFF0FE30C8"/>
 and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <p>In every reſpect the Editors flatter them<g ref="char:EOLhyphen"/>ſelves, the elegance of the work will do juſtice to this admired Poem; and they confide in the liberality of their country<g ref="char:EOLhyphen"/>men, to give due encouragement to this ſpecimen of American genius and induſtry.</p>
             <p>THE Notes in this Edition marked with in<g ref="char:EOLhyphen"/>verted Commas, were inſerted by the Author in the firſt Edition; thoſe that are not ſo marked, are principally extracted and altered from a London Edition, Printed in the Year 1792.</p>
@@ -191,7 +191,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
       </front>
       <body>
          <div n="1" type="canto">
-            <pb facs="tcp:029659_0008_0FE212B28D619150"/>
+            <pb facs="unknown:029659_0008_0FE212B28D619150"/>
             <head>M'FINGAL: CANTO FIRST. The Town-Meeting, A. M.</head>
             <l>WHEN Yankies<note n="*" place="bottom">
                   <hi>Yankies,</hi> a term formerly of deriſion, but now merely of diſtinction, given to the people of the four Eaſtern States.</note>, ſkill'd in martial rule,</l>
@@ -203,7 +203,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>Made them give up, like ſaints complete,</l>
             <l>The arm of fleſh, and truſt the feet,</l>
             <l>
-               <pb n="2" facs="tcp:029659_0009_0FE212B4F30E1950"/>And work, like Chriſtians undiſſembling,</l>
+               <pb n="2" facs="unknown:029659_0009_0FE212B4F30E1950"/>And work, like Chriſtians undiſſembling,</l>
             <l>Salvation out, by fear and trembling;</l>
             <l>Taught Percy faſhionable races,</l>
             <l>And modern modes of Chevy-chaſes<note n="*" place="bottom">Lord Percy commanded the party that was firſt oppoſed by the Americans at Lexington. This illuſion to the family-renown of Chevy-Chace aroſe from the precipitate manner of his quit<g ref="char:EOLhyphen"/>ting the field of battle, and returning to Boſton.</note>:</l>
@@ -224,7 +224,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>Of theſe the firſt, in ancient days,</l>
             <l>Had gain'd the nobleſt palms of praiſe,</l>
             <l>
-               <pb n="3" facs="tcp:029659_0010_0FE212B787AD2620"/>'Gainſt Kings ſtood forth, and many a crown'd head</l>
+               <pb n="3" facs="unknown:029659_0010_0FE212B787AD2620"/>'Gainſt Kings ſtood forth, and many a crown'd head</l>
             <l>With terror <gap reason="illegible: indecipherable" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> its might confounded;</l>
@@ -255,7 +255,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>And ſound this new rebellion pleaſing</l>
             <l>As his old king deſtroying treaſon.</l>
             <l>
-               <pb n="4" facs="tcp:029659_0011_0FE212BE49511220"/>Nor leſs avail'd his optic ſleight,</l>
+               <pb n="4" facs="unknown:029659_0011_0FE212BE49511220"/>Nor leſs avail'd his optic ſleight,</l>
             <l>And Scotiſh gift of ſecond-ſight.</l>
             <l>No ancient ſybil, fam'd in rhyme,</l>
             <l>Saw deeper in the womb of time;</l>
@@ -282,7 +282,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>Made dreadful ſlaughter in his courſe,</l>
             <l>O'erthrew provincials, foot and horſe;</l>
             <l>
-               <pb n="5" facs="tcp:029659_0012_0FE212BFD709B480"/>Brought armies o'er by ſudden preſſings,</l>
+               <pb n="5" facs="unknown:029659_0012_0FE212BFD709B480"/>Brought armies o'er by ſudden preſſings,</l>
             <l>Of Hanoverians, Swiſs and Heſſians;</l>
             <l>Feaſted with blood his Scotiſh clan,</l>
             <l>And hang'd all rebels to a man;</l>
@@ -305,7 +305,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>As old war elephants, diſmay'd,</l>
             <l>Trode down the troops they came to aid,</l>
             <l>
-               <pb n="6" facs="tcp:029659_0013_0FE212C16516C428"/>And hurt their own ſide more in battle</l>
+               <pb n="6" facs="unknown:029659_0013_0FE212C16516C428"/>And hurt their own ſide more in battle</l>
             <l>Than leſs and ordinary cattle.</l>
             <l>Yet at town-meetings ev'ry chief</l>
             <l>Pinn'd faith on great M'Fingal's ſleeve,</l>
@@ -336,7 +336,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
                      <desc>〈◊〉</desc>
                   </gap> towns.</note>;</l>
             <l>
-               <pb n="7" facs="tcp:029659_0014_0FE212C3D077F528"/>With winds of doctrine veer'd about,</l>
+               <pb n="7" facs="unknown:029659_0014_0FE212C3D077F528"/>With winds of doctrine veer'd about,</l>
             <l>And turn'd all Whig-Committees out.</l>
             <l>Meanwhile our Hero, as their head,</l>
             <l>In pomp the tory faction led,</l>
@@ -360,7 +360,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>Wav'd potent round, the peace to keep,</l>
             <l>As that laid dead men's ſouls to ſleep.</l>
             <l>
-               <pb n="8" facs="tcp:029659_0015_0FE212C8D5E82398"/>Above, and near th' Hermetic ſtaff,</l>
+               <pb n="8" facs="unknown:029659_0015_0FE212C8D5E82398"/>Above, and near th' Hermetic ſtaff,</l>
             <l>The <note n="*" place="bottom">
                   <hi>Moderator</hi> is the name commonly given to the chairman or ſpeaker of the town-meeting. He is here ſeated in the pulpit.</note>moderator's upper half,</l>
             <l>In grandeur o'er the cuſhion bow'd,</l>
@@ -383,7 +383,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>With ſtrange ſour faces ſat him down,</l>
             <l>While thus the orator went on:</l>
             <l>
-               <pb n="9" facs="tcp:029659_0016_0FE212CB837E6CA8"/>"—For ages bleſt, thus Britain roſe,</l>
+               <pb n="9" facs="unknown:029659_0016_0FE212CB837E6CA8"/>"—For ages bleſt, thus Britain roſe,</l>
             <l>The terror of encircling foes;</l>
             <l>Her heroes rul'd the bloody plain;</l>
             <l>Her conqu'ring ſtandard aw'd the main;</l>
@@ -410,7 +410,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>Or vex'd with hypocondriac fits,</l>
             <l>Have broke their ſtrength and loſt their wits."</l>
             <l>
-               <pb n="10" facs="tcp:029659_0017_0FE212CD12E5CC90"/>"Thus now while hoary years prevail,</l>
+               <pb n="10" facs="unknown:029659_0017_0FE212CD12E5CC90"/>"Thus now while hoary years prevail,</l>
             <l>Good Mother Britain ſeem'd to fail;</l>
             <l>Her back bent, crippled with the weight</l>
             <l>Of age and debts and cares of ſtate:</l>
@@ -436,7 +436,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>Strange whimſies on her fancy ſtruck,</l>
             <l>And gave her brain a diſmal ſhock;</l>
             <l>
-               <pb n="11" facs="tcp:029659_0018_0FE212D05EB45618"/>Her mem'ry fails, her judgment ends;</l>
+               <pb n="11" facs="unknown:029659_0018_0FE212D05EB45618"/>Her mem'ry fails, her judgment ends;</l>
             <l>She quite forgot her neareſt friends;</l>
             <l>Loſt all her former ſenſe and knowledge,</l>
             <l>And fitted faſt for Beth'lem college:</l>
@@ -463,7 +463,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>And own'd at once, her power ſupreme,</l>
             <l>Her follies pleas'd in all their ſtages,</l>
             <l>
-               <pb n="12" facs="tcp:029659_0019_0FE212D66565B718"/>For ſake of legacies and wages;</l>
+               <pb n="12" facs="unknown:029659_0019_0FE212D66565B718"/>For ſake of legacies and wages;</l>
             <l>In <note place="bottom">"* The Parliament-Houſe is called by that name."</note> 
                <hi>Stephen's Chappel</hi> then in ſtate too</l>
             <l>Set up her Golden calf to pray to,</l>
@@ -492,7 +492,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>Trembled at whigs and deem'd them foes,</l>
             <l>And ſtopp'd at loyalty her noſe;</l>
             <l>
-               <pb n="13" facs="tcp:029659_0020_0FE212D7F6613420"/>Stil'd her own children, brats and caitiffs,</l>
+               <pb n="13" facs="unknown:029659_0020_0FE212D7F6613420"/>Stil'd her own children, brats and caitiffs,</l>
             <l>And knew not us from th' Indian natives."</l>
             <l>"What tho' with ſupplicating prayer</l>
             <l>We begg'd our lives and goods ſhe'd ſpare;</l>
@@ -518,7 +518,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
                   <p>The character and conduct of Gage is deſcribed with great juſtice in the ſubſequent part of this ſpeech of Honorius.</p>
                </note>,</l>
             <l>
-               <pb n="14" facs="tcp:029659_0021_0FE212D987880638"/>And at his heels, like dogs to bait us,</l>
+               <pb n="14" facs="unknown:029659_0021_0FE212D987880638"/>And at his heels, like dogs to bait us,</l>
             <l>Diſpatch'd her <hi>Poſſe Comitatus.</hi>"</l>
             <l>"No ſtate e'er choſe a fitter perſon,</l>
             <l>To carry ſuch a ſilly farce on.</l>
@@ -547,7 +547,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>And blund'ring brutes in Eden ſhunning,</l>
             <l>Choſe out the ſerpent for his cunning;</l>
             <l>
-               <pb n="15" facs="tcp:029659_0022_0FE212DBF0E7A358"/>Of late he is not half ſo nice,</l>
+               <pb n="15" facs="unknown:029659_0022_0FE212DBF0E7A358"/>Of late he is not half ſo nice,</l>
             <l>Nor pick'd aſſiſtants, 'cauſe they're wiſe.</l>
             <l>For had he ſtood upon perfection,</l>
             <l>His preſent friends had loſt th' election,</l>
@@ -577,7 +577,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>His title t' his old ſeat above,</l>
             <l>Would, if his cauſe he'd give'em fees in.</l>
             <l>
-               <pb n="16" facs="tcp:029659_0023_0FE212E261D2E3C8"/>Bring writs of <hi>Entry ſur diſſeſin,</hi>
+               <pb n="16" facs="unknown:029659_0023_0FE212E261D2E3C8"/>Bring writs of <hi>Entry ſur diſſeſin,</hi>
             </l>
             <l>Plead for him boldly at the ſeſſion,</l>
             <l>And hope to put him in poſſeſſion;</l>
@@ -602,13 +602,13 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>Nor with more uproar, than the Tories</l>
             <l>Set up a gen'ral rout in chorus;</l>
             <p>
-               <pb facs="tcp:029659_0024_0FE212E45CE55AA8"/>
+               <pb facs="unknown:029659_0024_0FE212E45CE55AA8"/>
                <figure>
                   <head>TOWN MEETING.</head>
                </figure>
             </p>
             <l>
-               <pb facs="tcp:029659_0025_0FE212E5EC45E490"/>Laugh'd, hiſs'd, hem'd, murmur'd, groan'd,</l>
+               <pb facs="unknown:029659_0025_0FE212E5EC45E490"/>Laugh'd, hiſs'd, hem'd, murmur'd, groan'd,</l>
             <l>Honorius now could ſcarce be heard<g ref="char:punc">▪</g>
             </l>
             <l>Our Muſe amid th' increaſing roar,</l>
@@ -636,7 +636,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>And tho' the ſpeech ben't worth a groat,</l>
             <l>As uſual, 'tisn't the author's fault,</l>
             <l>
-               <pb n="18" facs="tcp:029659_0026_0FE212E855EB09C8"/>But error merely of the prater,</l>
+               <pb n="18" facs="unknown:029659_0026_0FE212E855EB09C8"/>But error merely of the prater,</l>
             <l>Who ſhould have talk'd to th' purpoſe better;</l>
             <l>Which full excuſe, my critic-brothers,</l>
             <l>May help me out as well as others;</l>
@@ -666,7 +666,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>Did they not write, and pray, and preach,</l>
             <l>And torture all the parts of ſpeech;</l>
             <l>
-               <pb n="19" facs="tcp:029659_0027_0FE212EE1E556180"/>About Rebellion make a pother,</l>
+               <pb n="19" facs="unknown:029659_0027_0FE212EE1E556180"/>About Rebellion make a pother,</l>
             <l>From one end of the land to th' other?</l>
             <l>And yet gain'd fewer pros'lyte Whigs,</l>
             <l>Than old <note n="*" place="bottom">"The ſtories of St. Anthony and his pig, and St. Auſtin's preaching to fiſhes, are told in the Popiſh legends."</note> St. Anth'ny 'mongſt the pigs;</l>
@@ -685,7 +685,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>Have not our Cooper and our Seabury</l>
             <l>Sung hymns, like Barak and old Deborah;</l>
             <l>
-               <pb n="20" facs="tcp:029659_0028_0FE212EFE929C3F8"/>Prov'd all intrigues to ſet you free,</l>
+               <pb n="20" facs="unknown:029659_0028_0FE212EFE929C3F8"/>Prov'd all intrigues to ſet you free,</l>
             <l>Rebellion 'gainſt <hi>the pow'rs that be;</hi>
             </l>
             <l>Brought over many a ſcripture text</l>
@@ -715,7 +715,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>For heaven ordain'd the origin,</l>
             <l>Divines declare, of pain and ſin;</l>
             <l>
-               <pb n="21" facs="tcp:029659_0029_0FE212F176C7F0E8"/>Prove ſuch great good they both have done us,</l>
+               <pb n="21" facs="unknown:029659_0029_0FE212F176C7F0E8"/>Prove ſuch great good they both have done us,</l>
             <l>Kind mercy 'twas they came upon us:</l>
             <l>For without pain and ſin and folly</l>
             <l>Man ne'er were bleſt, or wiſe, or holy;</l>
@@ -742,7 +742,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>Your only way's in peace to bear it,</l>
             <l>And make neceſſity a merit.</l>
             <l>
-               <pb n="22" facs="tcp:029659_0030_0FE212F41FA78FB8"/>Hence ſure perdition muſt await</l>
+               <pb n="22" facs="unknown:029659_0030_0FE212F41FA78FB8"/>Hence ſure perdition muſt await</l>
             <l>The man who riſes 'gainſt the ſtate,</l>
             <l>Who meets at once the damning ſentence,</l>
             <l>Without one loop-hole for repentance;</l>
@@ -767,7 +767,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             </l>
             <l>For your conviction ſtrain his ſenſes?</l>
             <l>
-               <pb n="23" facs="tcp:029659_0031_0FE212FB5BEE40D8"/>Scrawl every moment he could ſpare,</l>
+               <pb n="23" facs="unknown:029659_0031_0FE212FB5BEE40D8"/>Scrawl every moment he could ſpare,</l>
             <l>From cards and barbers and the fair;</l>
             <l>Show clear as ſun in noon-day heavens,</l>
             <l>You did not feel a ſingle grievance;</l>
@@ -788,7 +788,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>Did not our grave <note n="†" place="bottom">"Attorney-General of Maſſachuſetts-Bay, a Judge of Ad<g ref="char:EOLhyphen"/>miralty, Gage's chief Advertiſer and Proclamation-maker, author of a farce called the Americans Rouzed, and of a great variety of eſſays on the Miniſterial ſide, in the Boſton news<g ref="char:EOLhyphen"/>papers."</note> Judge Sewall hit</l>
             <l>The ſummit of news paper wit?</l>
             <l>
-               <pb n="24" facs="tcp:029659_0032_0FE212FD23FB9BE0"/>Fill'd every leaf of ev'ry paper</l>
+               <pb n="24" facs="unknown:029659_0032_0FE212FD23FB9BE0"/>Fill'd every leaf of ev'ry paper</l>
             <l>Of Mills, and Hicks, and Mother Draper:</l>
             <l>Drew proclamations, works of toil,</l>
             <l>In true ſublime, of ſcare-crow ſtyle;</l>
@@ -815,7 +815,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>We kept them not, but 'twas no crime;</l>
             <l>We held them merely loſs of time.</l>
             <l>
-               <pb n="25" facs="tcp:029659_0033_0FE212FEB0C07FD0"/>For what advantage firm and laſting,</l>
+               <pb n="25" facs="unknown:029659_0033_0FE212FEB0C07FD0"/>For what advantage firm and laſting,</l>
             <l>Pray, did you ever get by faſting?</l>
             <l>And what the gains that can ariſe</l>
             <l>From vows and off'rings to the ſkies;</l>
@@ -838,7 +838,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>And were they not mere earthly ſtruggles,</l>
             <l>That rais'd up Murray, ſay, and Ruggles?</l>
             <l>
-               <pb n="26" facs="tcp:029659_0034_0FE2130230DBE388"/>Did Heav'n ſend down, our pains to med'cine,</l>
+               <pb n="26" facs="unknown:029659_0034_0FE2130230DBE388"/>Did Heav'n ſend down, our pains to med'cine,</l>
             <l>That old ſimplicity of Edſon;</l>
             <l>Or by election pick out from us,</l>
             <l>That Marſhfield blund'rer Nat. Ray Thomas:</l>
@@ -863,7 +863,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>And ſhut his eyes and vent his moan,</l>
             <l>Like owl afflicted in the ſun?</l>
             <l>
-               <pb n="27" facs="tcp:029659_0035_0FE21307B13EFAB8"/>Who once ſent home his canting rival,</l>
+               <pb n="27" facs="unknown:029659_0035_0FE21307B13EFAB8"/>Who once ſent home his canting rival,</l>
             <l>Lord Dartmouth's ſelf, might out-be-drivel."</l>
             <l>"Have you forgot, Honorius cried,</l>
             <l>How your prime ſaint the truth defied <note n="*" place="bottom">The detection of falſhood in Governor Hutchinſon, here alluded to, is a curious little hiſtory. It is told at large in the <hi>Remembrancer,</hi> publiſhed by Almon, V. I.</note>,</l>
@@ -888,7 +888,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>For lying is, we know and teach,</l>
             <l>The higheſt privilege of ſpeech;</l>
             <l>
-               <pb n="28" facs="tcp:029659_0036_0FE21309A7E74178"/>The univerſal Magna Charta,</l>
+               <pb n="28" facs="unknown:029659_0036_0FE21309A7E74178"/>The univerſal Magna Charta,</l>
             <l>To which all human race is party;</l>
             <l>Whence children firſt, as David ſays,</l>
             <l>Lay claim to 't in their earlieſt days;</l>
@@ -915,7 +915,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>So Gage, of late agreed, you know,</l>
             <l>To let the Boſton people go;</l>
             <l>
-               <pb n="29" facs="tcp:029659_0037_0FE2130B35165500"/>Yet when he ſaw, 'gainſt troops that brav'd him,</l>
+               <pb n="29" facs="unknown:029659_0037_0FE2130B35165500"/>Yet when he ſaw, 'gainſt troops that brav'd him,</l>
             <l>They were the only guards that ſav'd him,</l>
             <l>Kept off that Satan of a Putnam<note n="†" place="bottom">General Putnam of Connecticut, who had gained great reputation, as a Partizan officer, in the war before laſt, came forward with activity in the beginning of the war of indepen<g ref="char:EOLhyphen"/>dence; but his age and infirmities obliged him ſoon to quit the field.</note>,</l>
             <l>From breaking in to maul and mutt'n him:</l>
@@ -938,7 +938,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>Till Gage amidſt his trembling fits,</l>
             <l>Has hardly kept him in his wits;</l>
             <l>
-               <pb n="30" facs="tcp:029659_0038_0FE2130DA34C2DB8"/>And tho' he ſpeak with art and fineſſe,</l>
+               <pb n="30" facs="unknown:029659_0038_0FE2130DA34C2DB8"/>And tho' he ſpeak with art and fineſſe,</l>
             <l>'Tis ſaid beneath <hi>dureſs per minas.</hi>
             </l>
             <l>For we're in peril of our ſouls</l>
@@ -964,7 +964,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>I'll ſhow you all at fitter time,</l>
             <l>Th' extent and greatneſs of your crime,</l>
             <l>
-               <pb n="31" facs="tcp:029659_0039_0FE21314749BD5A0"/>And here demonſtrate to your face,</l>
+               <pb n="31" facs="unknown:029659_0039_0FE21314749BD5A0"/>And here demonſtrate to your face,</l>
             <l>Your want of virtue, as of grace,</l>
             <l>Evinc'd from topics old and recent:</l>
             <l>But thus much muſt ſuffice at preſent.</l>
@@ -977,7 +977,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <trailer>END OF THE FIRST CANTO.</trailer>
          </div>
          <div n="2" type="canto">
-            <pb facs="tcp:029659_0040_0FE21316075CA8A8"/>
+            <pb facs="unknown:029659_0040_0FE21316075CA8A8"/>
             <head>M'FINGAL: CANTO SECOND. The Town-Meeting, P. M.</head>
             <l>THE Sun, who never ſtops to dine,</l>
             <l>Two hours had paſs'd the mid-way line;</l>
@@ -994,7 +994,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>With equal ſpirit took their places;</l>
             <l>And meeting op'd with three Oh yeſſes:</l>
             <l>
-               <pb n="34" facs="tcp:029659_0041_0FE213186CEBFC18"/>When firſt the daring Whigs t' oppoſe,</l>
+               <pb n="34" facs="unknown:029659_0041_0FE213186CEBFC18"/>When firſt the daring Whigs t' oppoſe,</l>
             <l>Again the great M'Fingal roſe,</l>
             <l>Stretch'd magiſterial arm amain,</l>
             <l>And thus aſſum'd th' accuſing ſtrain.</l>
@@ -1021,7 +1021,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             </l>
             <l>Firſt drive your fathers to this climate,</l>
             <l>
-               <pb n="35" facs="tcp:029659_0042_0FE2131ADBC7B1C0"/>Whom jails, and fines, and ev'ry ill</l>
+               <pb n="35" facs="unknown:029659_0042_0FE2131ADBC7B1C0"/>Whom jails, and fines, and ev'ry ill</l>
             <l>Forc'd to their good againſt their will?</l>
             <l>Ye owe to their obliging temper</l>
             <l>The peopling your new-fangled empire,</l>
@@ -1043,7 +1043,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>Say, at what period did they grudge</l>
             <l>To ſend you Governor or Judge,</l>
             <l>
-               <pb n="36" facs="tcp:029659_0043_0FE2131F51ED3008"/>With all their miſſionary crew<note n="*" place="bottom">The Miſſionaries were clergymen, ordained by the Biſhop of London, and ſettled in America. Theſe in the Northern Co<g ref="char:EOLhyphen"/>lonies were generally attached to the Royal cauſe.</note>,</l>
+               <pb n="36" facs="unknown:029659_0043_0FE2131F51ED3008"/>With all their miſſionary crew<note n="*" place="bottom">The Miſſionaries were clergymen, ordained by the Biſhop of London, and ſettled in America. Theſe in the Northern Co<g ref="char:EOLhyphen"/>lonies were generally attached to the Royal cauſe.</note>,</l>
             <l>To teach you law and goſpel too?</l>
             <l>Brought o'er all felons in the nation,</l>
             <l>To help you on in population,</l>
@@ -1068,7 +1068,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>Shall good king George, with want oppreſt,</l>
             <l>Inſert his name in bankrupt liſt,</l>
             <l>
-               <pb n="37" facs="tcp:029659_0044_0FE21321F663C460"/>And ſhut up ſhop, like failing merchant,</l>
+               <pb n="37" facs="unknown:029659_0044_0FE21321F663C460"/>And ſhut up ſhop, like failing merchant,</l>
             <l>That fears the bailiffs ſhould make ſearch in't;</l>
             <l>With poverty ſhall princes ſtrive,</l>
             <l>And nobles lack whereon to live?</l>
@@ -1095,7 +1095,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>Hath not <note n="*" place="bottom">"Miniſterial Penſioners."</note> Dalrymple ſhow'd in print,</l>
             <l>And <note n="*" place="bottom">"Miniſterial Penſioners."</note> Johnſon too, there's nothing in't?</l>
             <l>
-               <pb n="38" facs="tcp:029659_0045_0FE213238785EF10"/>Produc'd you demonſtration ample,</l>
+               <pb n="38" facs="unknown:029659_0045_0FE213238785EF10"/>Produc'd you demonſtration ample,</l>
             <l>From other's and their own example,</l>
             <l>That ſelf is ſtill, in either faction,</l>
             <l>The only principle of action;</l>
@@ -1124,7 +1124,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>Did not the valiant Col'nel Grant</l>
             <l>Againſt your courage make his ſlant,</l>
             <l>
-               <pb n="39" facs="tcp:029659_0046_0FE21326CE019A10"/>Affirm your univerſal failure</l>
+               <pb n="39" facs="unknown:029659_0046_0FE21326CE019A10"/>Affirm your univerſal failure</l>
             <l>In ev'ry principle of valour,</l>
             <l>And ſwear no ſcamp'rers e'er could match you,</l>
             <l>So ſwift, a bullet ſcarce could catch you?</l>
@@ -1153,7 +1153,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>And e're ſhe'd loſe your ſhare of pelf,</l>
             <l>Deſtroy your country, and herſelf.</l>
             <l>
-               <pb n="40" facs="tcp:029659_0047_0FE2132B9EC292A0"/>For has not North declar'd they fight</l>
+               <pb n="40" facs="unknown:029659_0047_0FE2132B9EC292A0"/>For has not North declar'd they fight</l>
             <l>To gain ſubſtantial rev'nue by't,</l>
             <l>Denied he'd ever deign to treat,</l>
             <l>'Till on your knees, and at his feet?</l>
@@ -1179,7 +1179,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>And on this work to raiſe allies</l>
             <l>She ſent her duplicate of Guys,</l>
             <l>
-               <pb n="41" facs="tcp:029659_0048_0FE2132D2C53C358"/>To drive at diff'rent parts at once, on</l>
+               <pb n="41" facs="unknown:029659_0048_0FE2132D2C53C358"/>To drive at diff'rent parts at once, on</l>
             <l>Her ſtout Guy Carleton and Guy Johnſon;</l>
             <l>To each of whom, to ſend again ye</l>
             <l>Old Guy of Warwick were a ninny;</l>
@@ -1212,7 +1212,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
                </note> ſtones along the ſtreet</l>
             <l>To ratify a cov'nant meet,</l>
             <l>
-               <pb n="42" facs="tcp:029659_0049_0FE2132EC0C43290"/>And ev'ry beaſt from lice to lions,</l>
+               <pb n="42" facs="unknown:029659_0049_0FE2132EC0C43290"/>And ev'ry beaſt from lice to lions,</l>
             <l>To join in league of ſtrict alliance:</l>
             <l>Has ſhe not cring'd, in ſpite of pride,</l>
             <l>For like aſſiſtance, far and wide?</l>
@@ -1239,7 +1239,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>While ſtrokes alternate ſtunn'd the nation,</l>
             <l>Proteſt, addreſs, and proclamation;</l>
             <l>
-               <pb n="43" facs="tcp:029659_0050_0FE2133126C39198"/>And ſpeech met ſpeech, fib claſh'd with fib,</l>
+               <pb n="43" facs="unknown:029659_0050_0FE2133126C39198"/>And ſpeech met ſpeech, fib claſh'd with fib,</l>
             <l>And Gage ſtill anſwered ſquib for ſquib.</l>
             <l>"Tho' this not all his time was loſt on,</l>
             <l>He fortified the town of Boſton;</l>
@@ -1268,7 +1268,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>So Frogs croak'd Pharaoh to repentance,</l>
             <l>And lice revers'd the threat'ning ſentence:</l>
             <l>
-               <pb n="44" facs="tcp:029659_0051_0FE213359E5F40D8"/>And Heaven can ruin you at pleaſure,</l>
+               <pb n="44" facs="unknown:029659_0051_0FE213359E5F40D8"/>And Heaven can ruin you at pleaſure,</l>
             <l>By our ſcorn'd Gage, as well as Caeſar.</l>
             <l>Yet did our hero in theſe days</l>
             <l>Pick up ſome laurel-wreathes of praiſe.</l>
@@ -1290,14 +1290,14 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>Was there a Yankey trick you knew,</l>
             <l>They did not play as well as you?</l>
             <p>
-               <pb facs="tcp:029659_0052_0FE21338190B1E18"/>
+               <pb facs="unknown:029659_0052_0FE21338190B1E18"/>
                <figure>
                   <head>The <hi>YANKY CHACE.</hi>
                   </head>
                </figure>
             </p>
             <l>
-               <pb n="45" facs="tcp:029659_0053_0FE21339A744DF28"/>Did they not lay their heads together,</l>
+               <pb n="45" facs="unknown:029659_0053_0FE21339A744DF28"/>Did they not lay their heads together,</l>
             <l>And gain your art to tar and feather,</l>
             <l>When Col'nel Neſbitt thro' the town</l>
             <l>In triumph bore the country-clown?</l>
@@ -1314,7 +1314,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
                   <p>The magiſtrates of the town waited on General Gage with a com<g ref="char:EOLhyphen"/>plaint of this outrage; he pretended diſapprobation; but took no ſteps to cenſure the conduct of Neſbitt, or to do juſtice to the man who had ſuffered the violence.</p>
                </note>,</l>
             <l>
-               <pb n="46" facs="tcp:029659_0054_0FE2133C1BD08778"/>Great executioner and proud,</l>
+               <pb n="46" facs="unknown:029659_0054_0FE2133C1BD08778"/>Great executioner and proud,</l>
             <l>Like hangman high on Holborn road;</l>
             <l>And o'er the bright triumphal car</l>
             <l>The waving enſigns of the war!</l>
@@ -1343,7 +1343,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>Till, their full reck'ning run, with joy</l>
             <l>Their Sinon midwif'd them in Troy;</l>
             <l>
-               <pb n="47" facs="tcp:029659_0055_0FE213429DAA5858"/>So in one ſhip was Leſlie <gap reason="illegible: indecipherable" extent="2 letters">
+               <pb n="47" facs="unknown:029659_0055_0FE213429DAA5858"/>So in one ſhip was Leſlie <gap reason="illegible: indecipherable" extent="2 letters">
                   <desc>••</desc>
                </gap>ld</l>
             <l>Cramm'd with three hundred men in hold,</l>
@@ -1374,7 +1374,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>But mercy is, without diſpute,</l>
             <l>His firſt and darling attribute;</l>
             <l>
-               <pb n="48" facs="tcp:029659_0056_0FE2134429A2CC58"/>So great, it far outwent and conquer'd</l>
+               <pb n="48" facs="unknown:029659_0056_0FE2134429A2CC58"/>So great, it far outwent and conquer'd</l>
             <l>His military ſkill at Concord.</l>
             <l>There when the war he choſe to wage</l>
             <l>Shone the benevolence of Gage;</l>
@@ -1405,7 +1405,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>Since that's no war, each mortal knows,</l>
             <l>Where one ſide only gives the blows,</l>
             <l>
-               <pb n="49" facs="tcp:029659_0057_0FE21345B81CE610"/>And th' other bears 'em; on reflection</l>
+               <pb n="49" facs="unknown:029659_0057_0FE21345B81CE610"/>And th' other bears 'em; on reflection</l>
             <l>The moſt you'll call it, is correction.</l>
             <l>Nor could the conteſt have gone higher,</l>
             <l>If you had ne'er return'd the fire;</l>
@@ -1432,7 +1432,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>Demonſtrate, and by proofs uncommon,</l>
             <l>Their orders were to injure no man;</l>
             <l>
-               <pb n="50" facs="tcp:029659_0058_0FE2134822134FF8"/>For did not ev'ry Reg'lar run<note n="*" place="bottom">In the ancient wars in America, the term REGULAR was applied to Britiſh troops, to diſtinguiſh them from the Provincials, or new levies of the country. At the commencement of the late war, the ſame terms of diſtinction were uſed.</note>
+               <pb n="50" facs="unknown:029659_0058_0FE2134822134FF8"/>For did not ev'ry Reg'lar run<note n="*" place="bottom">In the ancient wars in America, the term REGULAR was applied to Britiſh troops, to diſtinguiſh them from the Provincials, or new levies of the country. At the commencement of the late war, the ſame terms of diſtinction were uſed.</note>
             </l>
             <l>As ſoon as e'er you fir'd a gun:</l>
             <l>Take the firſt ſhot you ſent them greeting,</l>
@@ -1472,7 +1472,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
                </note> parade prepoſt'rous hedg'd</l>
             <l>Affect to hold them there beſieg'd;</l>
             <l>
-               <pb n="51" facs="tcp:029659_0059_0FE2135007A7DAA8"/>(Tho' Gage, whom proclamations call</l>
+               <pb n="51" facs="unknown:029659_0059_0FE2135007A7DAA8"/>(Tho' Gage, whom proclamations call</l>
             <l>Your Gov'nor and Vice Admiral,</l>
             <l>Whoſe pow'r gubernatorial ſtill</l>
             <l>Extends as far as Bunker's Hill;</l>
@@ -1499,7 +1499,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>Himſelf while dread array involves,</l>
             <l>Commiſſions, piſtols, ſwords, reſolves,</l>
             <l>
-               <pb n="52" facs="tcp:029659_0060_0FE21351957BD508"/>In awful pomp deſcending down,</l>
+               <pb n="52" facs="unknown:029659_0060_0FE21351957BD508"/>In awful pomp deſcending down,</l>
             <l>Bore terror on the factious town:</l>
             <l>Not with leſs glory and affright,</l>
             <l>Parade theſe Gen'rals forth to fight.</l>
@@ -1524,13 +1524,13 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>What whipping-poſts your choſen race</l>
             <l>Admit ſucceſſive in embrace,</l>
             <p>
-               <pb facs="tcp:029659_0061_0FE2135325761298"/>
+               <pb facs="unknown:029659_0061_0FE2135325761298"/>
                <figure>
                   <head>BRITISH HEROISM.</head>
                </figure>
             </p>
             <l>
-               <pb n="53" facs="tcp:029659_0062_0FE21355900787E8"/>While each bears off his crimes, alack!</l>
+               <pb n="53" facs="unknown:029659_0062_0FE21355900787E8"/>While each bears off his crimes, alack!</l>
             <l>Like Bunyan's pilgrim, on his back!</l>
             <l>Where then, when Tories ſcarce get clear,</l>
             <l>Shall Whigs and Congreſſes appear?</l>
@@ -1561,7 +1561,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>Diſperſe whole troops of horſe, and preſſing</l>
             <l>Make cows ſurrender at diſcretion;</l>
             <l>
-               <pb n="54" facs="tcp:029659_0063_0FE2135A95D00F88"/>Attack your hens, like Alexanders,</l>
+               <pb n="54" facs="unknown:029659_0063_0FE2135A95D00F88"/>Attack your hens, like Alexanders,</l>
             <l>And reg'ments rout of geeſe and ganders;</l>
             <l>Or where united arms combine</l>
             <l>Lead captive many a herd of ſwine!</l>
@@ -1589,7 +1589,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>I ſee you ſink with aw'd ſurprize!</l>
             <l>I ſee our Tory-brethren riſe!</l>
             <l>
-               <pb n="55" facs="tcp:029659_0064_0FE2135D472B4420"/>And as the ſect'ries Sandimanian<note n="†" place="bottom">The religious ſect of Sandimanians, have ſingular ideas of the Millennium. Their political religion during the Revolution was Toryiſm.</note>,</l>
+               <pb n="55" facs="unknown:029659_0064_0FE2135D472B4420"/>And as the ſect'ries Sandimanian<note n="†" place="bottom">The religious ſect of Sandimanians, have ſingular ideas of the Millennium. Their political religion during the Revolution was Toryiſm.</note>,</l>
             <l>Our friends, deſcribe their wiſh'd Millennium;</l>
             <l>Tell how the world in ev'ry region</l>
             <l>At once ſhall own their true religion;</l>
@@ -1616,7 +1616,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>Hung forth its dire portents of war,</l>
             <l>By <note place="bottom">"* Such ſtories of prodigies were at that time induſtriouſly pro<g ref="char:EOLhyphen"/>pagated among the Tory-party in various parts of New-Eng<g ref="char:EOLhyphen"/>land, to terrify and intimidate the ſuperſtitious."</note>ſigns and beacons in the air;</l>
             <l>
-               <pb n="56" facs="tcp:029659_0065_0FE2135ED6300208"/>Alarm'd old women all around</l>
+               <pb n="56" facs="unknown:029659_0065_0FE2135ED6300208"/>Alarm'd old women all around</l>
             <l>By fearful noiſes under ground;</l>
             <l>While earth for many dozen leagues</l>
             <l>Groan'd with her diſmal load of Whigs!</l>
@@ -1643,7 +1643,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>Heard ye not, when the wind was fair,</l>
             <l>At night our or'tors in the air,</l>
             <l>
-               <pb n="57" facs="tcp:029659_0066_0FE21361461305F0"/>That loud as admiralty-libel,</l>
+               <pb n="57" facs="unknown:029659_0066_0FE21361461305F0"/>That loud as admiralty-libel,</l>
             <l>Read awful chapters from the bible,</l>
             <l>And death and Deviltry denounc'd,</l>
             <l>And told you how you'd ſoon be trounc'd?</l>
@@ -1672,7 +1672,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>Admire, array'd in ducal taſſels,</l>
             <l>Your Ol'vers, Hutchinſons, and Vaſſals;</l>
             <l>
-               <pb n="58" facs="tcp:029659_0067_0FE21368D98CFC30"/>See, join'd in miniſterial work,</l>
+               <pb n="58" facs="unknown:029659_0067_0FE21368D98CFC30"/>See, join'd in miniſterial work,</l>
             <l>His grace of Albany and York!</l>
             <l>What Lordſhips from each carv'd eſtate,</l>
             <l>On our New-York Aſſembly wait!</l>
@@ -1697,7 +1697,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>Transform by patent's magic words</l>
             <l>Men, likeſt Devils, into Lords;</l>
             <l>
-               <pb n="59" facs="tcp:029659_0068_0FE2136A963A2B98"/>Whence commoners, to peers tranſlated,</l>
+               <pb n="59" facs="unknown:029659_0068_0FE2136A963A2B98"/>Whence commoners, to peers tranſlated,</l>
             <l>Are juſtly ſaid to be <hi>created!</hi>
             </l>
             <l>Now where commiſſioners ye ſaw</l>
@@ -1731,7 +1731,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>Nor aught can fate their mad ambition,</l>
             <l>From us, but death, or worſe, ſubmiſſion.</l>
             <l>
-               <pb n="60" facs="tcp:029659_0069_0FE2136C240DE390"/>Shall theſe then riot in our ſpoil,</l>
+               <pb n="60" facs="unknown:029659_0069_0FE2136C240DE390"/>Shall theſe then riot in our ſpoil,</l>
             <l>Reap the glad harveſt of our toil,</l>
             <l>Riſe from their country's ruin proud,</l>
             <l>And roll their chariot wheels in blood?</l>
@@ -1762,7 +1762,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>Inſpir'd by freedom's heav'nly charms,</l>
             <l>United nations wake to arms.</l>
             <l>
-               <pb n="61" facs="tcp:029659_0070_0FE2136E95C856F8"/>The ſtar of conqueſt lights their way,</l>
+               <pb n="61" facs="unknown:029659_0070_0FE2136E95C856F8"/>The ſtar of conqueſt lights their way,</l>
             <l>And guides their vengeance on their prey—</l>
             <l>Yes, tho' tyrannic force oppoſe,</l>
             <l>Still ſhall they triumph o'er their foes,</l>
@@ -1793,7 +1793,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>Hence! coward ſouls, the worſt diſgrace</l>
             <l>Of our forefathers' valliant race;</l>
             <l>
-               <pb n="62" facs="tcp:029659_0071_0FE213760A7473E0"/>Hie homeward from the glorious field;</l>
+               <pb n="62" facs="unknown:029659_0071_0FE213760A7473E0"/>Hie homeward from the glorious field;</l>
             <l>There turn the wheel, the diſtaff wield;</l>
             <l>Act what ye are, nor dare to ſtain</l>
             <l>The warrior's arms with touch profane:</l>
@@ -1824,7 +1824,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>And ev'ry ſoul with heart and voice</l>
             <l>Supplied his quota of the noiſe;</l>
             <l>
-               <pb n="63" facs="tcp:029659_0072_0FE213779DA07130"/>Each liſt'ning ear was ſet on torture</l>
+               <pb n="63" facs="unknown:029659_0072_0FE213779DA07130"/>Each liſt'ning ear was ſet on torture</l>
             <l>Each Tory bell'wing out, to order:</l>
             <l>And ſome, with tongue not low or weak,</l>
             <l>Were clam'ring faſt, for leave to ſpeak;</l>
@@ -1855,7 +1855,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>When on a ſudden, from without,</l>
             <l>Aroſe a loud terrific ſhout;</l>
             <l>
-               <pb n="64" facs="tcp:029659_0073_0FE213792E4BB328"/>And ſtrait the people all at once heard</l>
+               <pb n="64" facs="unknown:029659_0073_0FE213792E4BB328"/>And ſtrait the people all at once heard</l>
             <l>Of tongues an univerſal concert;</l>
             <l>Like Aeſop's times, as fable runs,</l>
             <l>When ev'ry creature talk'd at once;</l>
@@ -1880,7 +1880,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <trailer>END OF CANTO SECOND.</trailer>
          </div>
          <div n="3" type="canto">
-            <pb facs="tcp:029659_0074_0FE2137B9C642488"/>
+            <pb facs="unknown:029659_0074_0FE2137B9C642488"/>
             <head>M'FINGAL: CANTO THIRD. The Liberty-Pole.</head>
             <l>NOW arm'd with miniſterial ire,</l>
             <l>Fierce ſallied forth our loyal 'Squire,</l>
@@ -1897,7 +1897,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>And, on its top the flag unfurl'd,</l>
             <l>Wav'd triumph o'er the proſtrate world,</l>
             <l>
-               <pb n="66" facs="tcp:029659_0075_0FE21382062E61D8"/>Inſcrib'd with inconſiſtent types</l>
+               <pb n="66" facs="unknown:029659_0075_0FE21382062E61D8"/>Inſcrib'd with inconſiſtent types</l>
             <l>Of <hi>liberty</hi> and <hi>thirteen ſtripes.</hi>
             </l>
             <l>Beneath, the croud<g ref="char:punc">▪</g> without delay,</l>
@@ -1927,7 +1927,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>Who, foremoſt on the patriot ſpot,</l>
             <l>Had brought the flip and paid the ſhot.</l>
             <l>
-               <pb n="67" facs="tcp:029659_0076_0FE21383960D33E0"/>By this, M'Fingal, with his train,</l>
+               <pb n="67" facs="unknown:029659_0076_0FE21383960D33E0"/>By this, M'Fingal, with his train,</l>
             <l>Advanc'd upon th' adjacent plain,</l>
             <l>And fierce, with loyal rage poſſeſs'd,</l>
             <l>Pour'd forth the zeal that fir'd his breaſt.</l>
@@ -1956,7 +1956,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>Behold you not what noiſy fools</l>
             <l>Uſe you, worſe ſimpletons, for tools?</l>
             <l>
-               <pb n="68" facs="tcp:029659_0077_0FE213852207EA00"/>For Liberty in your own by-ſenſe</l>
+               <pb n="68" facs="unknown:029659_0077_0FE213852207EA00"/>For Liberty in your own by-ſenſe</l>
             <l>Is but for crimes a patent licence;</l>
             <l>To break of law th' Egyptian yoke,</l>
             <l>And throw the world in common ſtock,</l>
@@ -1981,7 +1981,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>Break heads and windows and the peace,</l>
             <l>For your own int'reſt and increaſe;</l>
             <l>
-               <pb n="69" facs="tcp:029659_0078_0FE21387957948B0"/>Diſpute and pray and fight and groan,</l>
+               <pb n="69" facs="unknown:029659_0078_0FE21387957948B0"/>Diſpute and pray and fight and groan,</l>
             <l>For public good and mean your own;</l>
             <l>Prevent the laws, by fierce attacks,</l>
             <l>From quitting ſcores upon your backs,</l>
@@ -2010,7 +2010,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>And tatter'd legiſlators meet</l>
             <l>From ev'ry work-ſhop thro' the ſtreet;</l>
             <l>
-               <pb n="70" facs="tcp:029659_0079_0FE2138CB2BC5B88"/>His gooſe the taylor finds new uſe in,</l>
+               <pb n="70" facs="unknown:029659_0079_0FE2138CB2BC5B88"/>His gooſe the taylor finds new uſe in,</l>
             <l>To patch and turn the conſtitution;</l>
             <l>The Blackſmith comes with ſledge and grate,</l>
             <l>To iron-bind the wheels of ſtate;</l>
@@ -2033,7 +2033,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>And, purg'd by patriotiſm from ſhame,</l>
             <l>Grows Gen'ral of the foremoſt name.</l>
             <p>
-               <pb n="71" facs="tcp:029659_0080_0FE2138F5CDB96A8"/>
+               <pb n="71" facs="unknown:029659_0080_0FE2138F5CDB96A8"/>
                <note place="bottom">"* M'Fingal having here inſerted the names and characters of ſe<g ref="char:EOLhyphen"/>veral great men, whom the public have not yet fully detected, it is thought proper to omit ſundry paragraphs of his ſpeech in the preſeat edition."</note> 
                <hi>Hiatus.</hi>
             </p>
@@ -2058,7 +2058,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>To pawn your faith to th' utmoſt limit,</l>
             <l>But cannot bind you to redeem it,</l>
             <l>
-               <pb n="72" facs="tcp:029659_0081_0FE21390E994C680"/>And when in want, no more in them lies,</l>
+               <pb n="72" facs="unknown:029659_0081_0FE21390E994C680"/>And when in want, no more in them lies,</l>
             <l>Than begging of your State-Aſſemblies;</l>
             <l>Can utter oracles of dread,</l>
             <l>Like Friar Bacon's brazen head;</l>
@@ -2089,7 +2089,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>But ſoon a batter'd ſtrumpet grown,</l>
             <l>You'll curſe and drum her out of town.</l>
             <l>
-               <pb n="73" facs="tcp:029659_0082_0FE213935B36A4F0"/>Such is the government you choſe,</l>
+               <pb n="73" facs="unknown:029659_0082_0FE213935B36A4F0"/>Such is the government you choſe,</l>
             <l>For this you bade the world be foes,</l>
             <l>For this, ſo mark'd for diſſolution,</l>
             <l>You ſcorn the Britiſh conſtitution;</l>
@@ -2118,7 +2118,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>While reaſon fails to check your courſe,</l>
             <l>And loyalty's kick'd out of doors,</l>
             <l>
-               <pb n="74" facs="tcp:029659_0083_0FE2139A4422E238"/>And folly, like inviting landlord,</l>
+               <pb n="74" facs="unknown:029659_0083_0FE2139A4422E238"/>And folly, like inviting landlord,</l>
             <l>Hoiſts on your poles her royal ſtandard.</l>
             <l>While the king's friends in doleful dumps,</l>
             <l>Have worn their courage to the ſtumps,</l>
@@ -2145,7 +2145,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>While paleneſs marks their late diſgraces</l>
             <l>Thro' all their rueful length of faces?</l>
             <l>
-               <pb n="75" facs="tcp:029659_0084_0FE2139BD4338A10"/>Have you not caus'd as woeful work</l>
+               <pb n="75" facs="unknown:029659_0084_0FE2139BD4338A10"/>Have you not caus'd as woeful work</l>
             <l>In loyal city of New-York <note n="*" place="bottom">There were ſo many influential Tories in New-York, that they at firſt obtained a vote in favor of the Acts of Parliament, and againſt the proceedings of the firſt Congreſs.</note>,</l>
             <l>When all the rabble well cockaded,</l>
             <l>In triumph thro' the ſtreets paraded;</l>
@@ -2167,7 +2167,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>And in the ſelf-ſame furnace frying,</l>
             <l>Burn'd him, and North, and Bute, and Tryon<note n="‡" place="bottom">Tryon, being now dead, is probably forgot. The reader muſt know that he was governor of New-York, and a Britiſh general during the war. He had the glory of burning the towns of Fairfield and Norwalk, and of iſſuing many proclama<g ref="char:EOLhyphen"/>tions. The other perſonages that make up this <hi>kettle</hi> of <hi>fiſh,</hi> Bute, Belzebub, and North, are ſtill living, and therefore want no explanation.</note>?</l>
             <l>
-               <pb n="76" facs="tcp:029659_0085_0FE2139D61478FD0"/>Did you not in as vile and ſhallow way,</l>
+               <pb n="76" facs="unknown:029659_0085_0FE2139D61478FD0"/>Did you not in as vile and ſhallow way,</l>
             <l>Fright our poor Philadelphian, <note n="§" place="bottom">Galloway began by being a flaming patriot. He is one of the few men, who proved a traitor to his country, wrote againſt it, and ran away.</note> Galloway,</l>
             <l>Your Congreſs when the daring ribald</l>
             <l>Belied, berated, and beſcribbled?</l>
@@ -2194,7 +2194,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>Riſe then, my friends, in terror riſe,</l>
             <l>And wipe this ſcandal from the ſkies!</l>
             <l>
-               <pb n="77" facs="tcp:029659_0086_0FE2139FCA31F858"/>You'll ſee their Dagon, tho' well jointed,</l>
+               <pb n="77" facs="unknown:029659_0086_0FE2139FCA31F858"/>You'll ſee their Dagon, tho' well jointed,</l>
             <l>Will ſink before the Lord's anointed,</l>
             <l>And like old Jericho's proud wall,</l>
             <l>Before our ram's horns proſtrate fall."</l>
@@ -2220,7 +2220,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>Inſtead of weapons, either band</l>
             <l>Seiz'd on ſuch arms, as came to hand.</l>
             <l>
-               <pb n="78" facs="tcp:029659_0087_0FE2129B522412D0"/>And as fam'd <note place="bottom">"* Ovid's Metamorphoſes, Book xii."</note> Ovid paints th' adventures</l>
+               <pb n="78" facs="unknown:029659_0087_0FE2129B522412D0"/>And as fam'd <note place="bottom">"* Ovid's Metamorphoſes, Book xii."</note> Ovid paints th' adventures</l>
             <l>Of wrangling Lapithae and Centaurs,</l>
             <l>Who at their feaſt, by Bacchus led,</l>
             <l>Threw bottles at each other's head,</l>
@@ -2251,7 +2251,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>And like a meteor ruſhing through,</l>
             <l>Struck on their pole a vengeful blow.</l>
             <l>
-               <pb n="79" facs="tcp:029659_0088_0FE213A84A664310"/>Around, the Whigs, of clubs and ſtones</l>
+               <pb n="79" facs="unknown:029659_0088_0FE213A84A664310"/>Around, the Whigs, of clubs and ſtones</l>
             <l>Diſcharg'd whole vollies in platoons,</l>
             <l>That o'er in whiſtling terror fly,</l>
             <l>But not a foe dares venture nigh.</l>
@@ -2278,7 +2278,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>While all the party gaz'd ſuſpended,</l>
             <l>To ſee the deadly combat ended.</l>
             <l>
-               <pb n="80" facs="tcp:029659_0089_0FE213AAB5ADBEB8"/>And Jove in equal balance weigh'd</l>
+               <pb n="80" facs="unknown:029659_0089_0FE213AAB5ADBEB8"/>And Jove in equal balance weigh'd</l>
             <l>The ſword againſt the brandiſh'd ſpade,</l>
             <l>He weigh'd; but lighter than a dream,</l>
             <l>The ſword flew up and kick'd the beam.</l>
@@ -2305,13 +2305,13 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>In vain; the Tories all had run,</l>
             <l>When ſcarce the fight was well begun;</l>
             <p>
-               <pb facs="tcp:029659_0090_0FE213AC47F71FA0"/>
+               <pb facs="unknown:029659_0090_0FE213AC47F71FA0"/>
                <figure>
                   <head>THE COMBAT.</head>
                </figure>
             </p>
             <l>
-               <pb n="81" facs="tcp:029659_0091_0FE213B61A60AF80"/>Their ſetting wigs he ſaw decreas'd,</l>
+               <pb n="81" facs="unknown:029659_0091_0FE213B61A60AF80"/>Their ſetting wigs he ſaw decreas'd,</l>
             <l>Far in th' horizon tow'rd the weſt.</l>
             <l>Amaz'd he view'd the ſhameful ſight,</l>
             <l>And ſaw no refuge but in flight:</l>
@@ -2338,7 +2338,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>But while our hero turn'd him round,</l>
             <l>And ſtoop'd to raiſe it from the ground,</l>
             <l>
-               <pb n="82" facs="tcp:029659_0092_0FE213B804085170"/>The deadly ſpade diſcharg'd a blow</l>
+               <pb n="82" facs="unknown:029659_0092_0FE213B804085170"/>The deadly ſpade diſcharg'd a blow</l>
             <l>Tremendous on his rear below:</l>
             <l>His bent knee fail'd, and void of ſtrength,</l>
             <l>Stretch'd on the ground his manly length;</l>
@@ -2365,7 +2365,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>Till to the pinnacle ſo fair,</l>
             <l>He roſe like meteor in the air:</l>
             <l>
-               <pb n="83" facs="tcp:029659_0093_0FE213B990AFC250"/>As <note n="†" place="bottom">"Socrates is repreſented in Ariſtophanes's Comedy of the Clouds, as hoiſted in a baſket to aid contemplation,"</note> Socrates of old at firſt did</l>
+               <pb n="83" facs="unknown:029659_0093_0FE213B990AFC250"/>As <note n="†" place="bottom">"Socrates is repreſented in Ariſtophanes's Comedy of the Clouds, as hoiſted in a baſket to aid contemplation,"</note> Socrates of old at firſt did</l>
             <l>To aid philoſophy get hoiſted,</l>
             <l>And found his thoughts flow ſtrangely clear,</l>
             <l>Swung in a baſket in mid air:</l>
@@ -2392,7 +2392,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>Nor cut your poles down while I've breath,</l>
             <l>Tho' rais'd more thick than hatchel teeth:</l>
             <l>
-               <pb n="84" facs="tcp:029659_0094_0FE1BE5A042AAE50"/>But leave king George and all his elves</l>
+               <pb n="84" facs="unknown:029659_0094_0FE1BE5A042AAE50"/>But leave king George and all his elves</l>
             <l>To do their conqu'ring work themſelves."</l>
             <l>This ſaid, they lower'd him down in ſtate,</l>
             <l>Spread at all points, like falling cat;</l>
@@ -2423,13 +2423,13 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
                   </gap> the ſagacious M Fingal perceives that Heaven had no hand. One ground of the quarrel between the Britiſh government and the people of Maſſachuſetts, was the act by which the Judges of the Colony were rendered independent of the Colony for their ſala<g ref="char:EOLhyphen"/>ry, as well as for their places; which was contrary to ancient uſage. When the people felt theſe particular acts of oppreſſion from a power three thouſand miles diſtant, their only method of redreſs was, to prevent any perſon from accepting an office, or from exerciſing its functions, under ſuch an act. This expedient had been ſucceſsful in the caſe of the Stamp-act a few years before; and the people now ap<g ref="char:EOLhyphen"/>plied to Judge Oliver, requeſting him to reſign an office, the new ar<g ref="char:EOLhyphen"/>rangement of which ſo manifeſtly ſtruck at the foundation of their li<g ref="char:EOLhyphen"/>berty. The Judge promiſed to reſign his place; but afterwards claim<g ref="char:EOLhyphen"/>ed that "<hi>higheſt privilege of ſpeech,</hi>" which M'Fingal has ſo well vin<g ref="char:EOLhyphen"/>dicated in favour of General Gage.</note> Oliver quit his ſtation,</l>
             <l>Or heed his vows of reſignation?</l>
             <p>
-               <pb facs="tcp:029659_0095_0FE1BE71ACE7F4D8"/>
+               <pb facs="unknown:029659_0095_0FE1BE71ACE7F4D8"/>
                <figure>
                   <head>The TORY'S Day of JUDGMENT</head>
                </figure>
             </p>
             <l>
-               <pb n="85" facs="tcp:029659_0096_0FE213BBF95A3870"/>Has Rivington <note n="†" place="bottom">Here again is an old acquaintance of the firſt Canto. His paper, entitled <hi>The Royal Gazette,</hi> had, by a ſtrange combination of circum<g ref="char:EOLhyphen"/>ſtances, obtained the name, through all the country, of <hi>The Lying Ga<g ref="char:EOLhyphen"/>zette</hi> It was on this account that the people at a certain time ſent a committee to take away his <hi>types.</hi> But this meaſure was as ineffectual as thoſe that were uſed with Murray, Williams, Oliver, &amp;c.</note>, in dread of ſtripes,</l>
+               <pb n="85" facs="unknown:029659_0096_0FE213BBF95A3870"/>Has Rivington <note n="†" place="bottom">Here again is an old acquaintance of the firſt Canto. His paper, entitled <hi>The Royal Gazette,</hi> had, by a ſtrange combination of circum<g ref="char:EOLhyphen"/>ſtances, obtained the name, through all the country, of <hi>The Lying Ga<g ref="char:EOLhyphen"/>zette</hi> It was on this account that the people at a certain time ſent a committee to take away his <hi>types.</hi> But this meaſure was as ineffectual as thoſe that were uſed with Murray, Williams, Oliver, &amp;c.</note>, in dread of ſtripes,</l>
             <l>Ceas'd lying ſince you ſtole his types?</l>
             <l>And can you think my faith will alter,</l>
             <l>By tarring, whipping, or the halter?</l>
@@ -2443,7 +2443,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>In Job's high ſtyle of imprecations,</l>
             <l>With all his plagues, without his patience."</l>
             <l>
-               <pb n="86" facs="tcp:029659_0097_0FE213C434128160"/>Meanwhile, beſide the pole, the guard</l>
+               <pb n="86" facs="unknown:029659_0097_0FE213C434128160"/>Meanwhile, beſide the pole, the guard</l>
             <l>A Bench of Juſtice had prepar'd,</l>
             <l>Where, ſitting round in awful ſort,</l>
             <l>The grand Committee hold their court;</l>
@@ -2472,7 +2472,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>While he, in peril of his ſoul,</l>
             <l>Stood tied half-hanging to the pole;</l>
             <l>
-               <pb n="87" facs="tcp:029659_0098_0FE213C60ACD55C8"/>Then lifting high the pond'rous jar,</l>
+               <pb n="87" facs="unknown:029659_0098_0FE213C60ACD55C8"/>Then lifting high the pond'rous jar,</l>
             <l>Pour'd o'er his head the ſmoaking tar:</l>
             <l>With leſs profuſion erſt was ſpread</l>
             <l>The Jewiſh oil on royal head,</l>
@@ -2499,7 +2499,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>Till all o'erſpread, with colours gay</l>
             <l>He glitter'd to the weſtern ray,</l>
             <l>
-               <pb n="88" facs="tcp:029659_0099_0FE213C79A24F288"/>Like ſleet-bound trees in wintry ſkies,</l>
+               <pb n="88" facs="unknown:029659_0099_0FE213C79A24F288"/>Like ſleet-bound trees in wintry ſkies,</l>
             <l>Or Lapland idol carv'd in ice.</l>
             <l>And now the feather-bag diſplay'd,</l>
             <l>Is wav'd in triumph o'er his head,</l>
@@ -2526,13 +2526,13 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>All Rome attends him thro' the ſtreet,</l>
             <l>In triumph to his country-ſeat;</l>
             <p>
-               <pb facs="tcp:029659_0100_0FE213CA0A4A0C68"/>
+               <pb facs="unknown:029659_0100_0FE213CA0A4A0C68"/>
                <figure>
                   <head>The PROCESSION.</head>
                </figure>
             </p>
             <l>
-               <pb n="89" facs="tcp:029659_0101_0FE213D2A2EB9B10"/>With like devotion all the choir</l>
+               <pb n="89" facs="unknown:029659_0101_0FE213D2A2EB9B10"/>With like devotion all the choir</l>
             <l>Paraded round our feather'd 'Squire;</l>
             <l>In front the martial muſic comes</l>
             <l>Of horns and fiddles, fifes and drums,</l>
@@ -2557,7 +2557,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>And now the Mob, diſpers'd and gone,</l>
             <l>Left 'Squire and Conſtable alone.</l>
             <l>
-               <pb n="90" facs="tcp:029659_0102_0FE213D433A20098"/>The Conſtable, in rueful caſe,</l>
+               <pb n="90" facs="unknown:029659_0102_0FE213D433A20098"/>The Conſtable, in rueful caſe,</l>
             <l>Lean'd ſad and ſolemn o'er a brace,</l>
             <l>And faſt beſide him, cheek by jowl,</l>
             <l>Stuck 'Squire M'Fingal 'gainſt the pole,</l>
@@ -2586,7 +2586,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>Behold my doom! this feather'd omen</l>
             <l>Portends what diſmal times are coming,</l>
             <l>
-               <pb n="91" facs="tcp:029659_0103_0FE213D5C5038220"/>Now future ſcenes before my eyes,</l>
+               <pb n="91" facs="unknown:029659_0103_0FE213D5C5038220"/>Now future ſcenes before my eyes,</l>
             <l>And ſecond-ſighted forms <gap reason="illegible: indecipherable" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap>;</l>
@@ -2611,7 +2611,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <trailer>END OF CANTO THIRD.</trailer>
          </div>
          <div type="illustration">
-            <pb facs="tcp:029659_0104_0FE213D83067C110"/>
+            <pb facs="unknown:029659_0104_0FE213D83067C110"/>
             <p>
                <figure>
                   <head>TORY PANDEMONIUM.</head>
@@ -2619,7 +2619,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             </p>
          </div>
          <div n="4" type="canto">
-            <pb facs="tcp:029659_0105_0FE213E111FF0E40"/>
+            <pb facs="unknown:029659_0105_0FE213E111FF0E40"/>
             <head>M'FINGAL: CANTO FOURTH. The Viſion.</head>
             <l>NOW night came down, and roſe full ſoon</l>
             <l>That patroneſs of rogues, the Moon,</l>
@@ -2646,7 +2646,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
 <bibl>Lib. 10. Aeneid.</bibl>
                </note>cellar,</l>
             <l>
-               <pb n="94" facs="tcp:029659_0106_0FE213E2A134EA60"/>Where, ſhut from prying eyes in cluſter,</l>
+               <pb n="94" facs="unknown:029659_0106_0FE213E2A134EA60"/>Where, ſhut from prying eyes in cluſter,</l>
             <l>The Tory Pandemonium muſter.</l>
             <l>Their chiefs all ſitting round deſcry'd are,</l>
             <l>On kegs of ale, and ſeats of cider;</l>
@@ -2684,7 +2684,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
                </gap> ſoul, in error ſtrong,</l>
             <l>Had faith in Hutchinſon too long.</l>
             <l>
-               <pb n="95" facs="tcp:029659_0107_0FE213E42F5A4C98"/>See what brave trophies ſtill we bring</l>
+               <pb n="95" facs="unknown:029659_0107_0FE213E42F5A4C98"/>See what brave trophies ſtill we bring</l>
             <l>From all our battles for the king;</l>
             <l>And yet theſe plagues, now paſt before us,</l>
             <l>Are but our entering-wedge of ſorrows.</l>
@@ -2714,7 +2714,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>Are only heeded in the event<g ref="char:punc">▪</g>
             </l>
             <l>
-               <pb n="96" facs="tcp:029659_0108_0FE213E69BDCB4A8"/>For late in viſions of the night</l>
+               <pb n="96" facs="unknown:029659_0108_0FE213E69BDCB4A8"/>For late in viſions of the night</l>
             <l>The gallows ſtood before my ſight;</l>
             <l>I ſaw its ladder heav'd on end;</l>
             <l>I ſaw the deadly rope deſcend;</l>
@@ -2736,7 +2736,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>"Ah, <note place="bottom">"* There is in this ſcene, a general alluſion to the appearance and ſpeech of Hector's ghoſt, in the ſecond book of the Aeneid."</note> fly, my friend! he cri'd; eſcape!</l>
             <l>And keep yourſelf from this ſad ſcrape;</l>
             <l>
-               <pb n="97" facs="tcp:029659_0109_0FE213ED7A7A8908"/>Enough you've talk'd, and writ, and plann'd;</l>
+               <pb n="97" facs="unknown:029659_0109_0FE213ED7A7A8908"/>Enough you've talk'd, and writ, and plann'd;</l>
             <l>The Whigs have got the upper hand.</l>
             <l>Dame Fortune's wheel has turn'd ſo ſhort,</l>
             <l>It plung'd us fairly in the dirt;</l>
@@ -2763,7 +2763,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>And bore in ſhow his mortal carcaſe,</l>
             <l>Thro' realms of Erebus and Orcus,</l>
             <l>
-               <pb n="98" facs="tcp:029659_0110_0FE213EF10113478"/>Then in the happy fields Elyſian,</l>
+               <pb n="98" facs="unknown:029659_0110_0FE213EF10113478"/>Then in the happy fields Elyſian,</l>
             <l>Saw all his embryon ſons in viſion:</l>
             <l>As, ſhown by great archangel, Michael,</l>
             <l>Old Adam ſaw the world's whole ſequel,</l>
@@ -2790,7 +2790,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>Thro' ev'ry State our legions brave,</l>
             <l>Speed gallant marches to the grave,</l>
             <l>
-               <pb n="99" facs="tcp:029659_0111_0FE213F09F6C3C38"/>Of battling Whigs the frequent prize,</l>
+               <pb n="99" facs="unknown:029659_0111_0FE213F09F6C3C38"/>Of battling Whigs the frequent prize,</l>
             <l>While rebel trophies ſtain the ſkies.</l>
             <l>Behold, o'er northern realms afar <note n="*" place="bottom">Nothing leſs than the whole Hiſtory of the American War would be ſufficient, completely to illuſtrate the merits of this ſingle paragraph. Malcolm, the gallows-taught prophet, in pre<g ref="char:EOLhyphen"/>paring the mind of M'Fingal to contemplate, with proper in<g ref="char:EOLhyphen"/>telligence, the various ſcenes that are to riſe ſucceſſively to view in the courſe of the Viſion, glances over the Continent, and mentions in this paſſage the principal ſcenes of action, from the expedition into Canada in 1775. to the capture of Lord Corn<g ref="char:EOLhyphen"/>wallis in 1781. The concluding part of his ſpeech is therefore a kind of <hi>argument</hi> to this whole book of Viſion; in which the ſame objects are unfolded at large with their attendant circum<g ref="char:EOLhyphen"/>ſtances; in order that they may make a proper impreſſion on the elevated mind of the great M'Fingal. It is thus that our Poet, like Homer, in his Iliad, ſeizes all occaſions to do honour to his principal hero. By ſuppoſing him already poſſeſſed of all natural and political knowledge that could be obtained by mortal ſtudy and experience, he makes him, like Achilles, capable of receiv<g ref="char:EOLhyphen"/>ing inſtruction only by the agency of a ſuper-terreſtial power. The adviſers of Achilles deſcended from the ſkies, that of M'Fingal is mounted towards the ſkies.</note>,</l>
             <l>Extend the kindling flames of war!</l>
@@ -2805,7 +2805,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>Behold near Del'ware's icy roar,</l>
             <l>Where morning dawns on Trenton's ſhore,</l>
             <l>
-               <pb n="100" facs="tcp:029659_0112_0FE213F3E38F7848"/>While Heſſians ſpread their Chriſtmas feaſts,</l>
+               <pb n="100" facs="unknown:029659_0112_0FE213F3E38F7848"/>While Heſſians ſpread their Chriſtmas feaſts,</l>
             <l>Ruſh rude theſe uninvited gueſts;</l>
             <l>Nor aught avail, to Whigs a prize,</l>
             <l>Their martial whiſkers' griſly ſize.</l>
@@ -2834,7 +2834,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>In vain! their Chief, ſuperior ſtill;</l>
             <l>Eludes our force with Fabian ſkill;</l>
             <l>
-               <pb n="101" facs="tcp:029659_0113_0FE213F794CF3D70"/>Or ſwift deſcending by ſurprize,</l>
+               <pb n="101" facs="unknown:029659_0113_0FE213F794CF3D70"/>Or ſwift deſcending by ſurprize,</l>
             <l>Like Pruſſia's eagle ſweeps the prize."</l>
             <l>"I look'd, nor yet, oppreſt with fears,</l>
             <l>Gave credit to my eyes or ears,</l>
@@ -2857,7 +2857,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>Or courtly ſermon, laureat ode,</l>
             <l>And ballads on the wat'ry God;</l>
             <l>
-               <pb n="102" facs="tcp:029659_0114_0FE213FA25EA67D8"/>With whoſe high ſtrains great George enriches</l>
+               <pb n="102" facs="unknown:029659_0114_0FE213FA25EA67D8"/>With whoſe high ſtrains great George enriches</l>
             <l>His eloquence of gracious ſpeeches?</l>
             <l>Not faithful to our Highland eyes,</l>
             <l>Theſe deadly forms of viſion riſe;</l>
@@ -2884,7 +2884,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>As fam'd Achilles, dipt by Thetis</l>
             <l>In Styx, as ſung in antient ditties,</l>
             <l>
-               <pb n="103" facs="tcp:029659_0115_0FE213FBB6BAB248"/>Grew all caſe-harden'd o'er like ſteel,</l>
+               <pb n="103" facs="unknown:029659_0115_0FE213FBB6BAB248"/>Grew all caſe-harden'd o'er like ſteel,</l>
             <l>Invulnerable, ſave his heel,</l>
             <l>And laugh'd at ſwords and ſpears, as ſquibs,</l>
             <l>And all diſeaſes, but the kibes;</l>
@@ -2913,7 +2913,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>Our nobleſt hopes already croſt,</l>
             <l>Our ſal'ries gone, our titles loſt,</l>
             <l>
-               <pb n="104" facs="tcp:029659_0116_0FE213FF0AD0D838"/>Doom'd to worſe ſuff'rings from the mob,</l>
+               <pb n="104" facs="unknown:029659_0116_0FE213FF0AD0D838"/>Doom'd to worſe ſuff'rings from the mob,</l>
             <l>Than Satan's ſurg'ries uſed on Job;</l>
             <l>What more remains but now with ſleight,</l>
             <l>What's left of us to ſave by flight?</l>
@@ -2942,7 +2942,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>They rais'd like angry clouds on high,</l>
             <l>Seem'd like th' artill'ry of the ſky,</l>
             <l>
-               <pb n="105" facs="tcp:029659_0117_0FE214043B4917F0"/>And hurl'd their fiery bolts amain,</l>
+               <pb n="105" facs="unknown:029659_0117_0FE214043B4917F0"/>And hurl'd their fiery bolts amain,</l>
             <l>In thunder on the trembling plain.</l>
             <l>I ſaw along the proſtrate ſtrand,</l>
             <l>Our baffl'd Gen'rals quit the land,</l>
@@ -2973,7 +2973,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>When yeomen left their fields afar,</l>
             <l>To plow the crimſon plains of war;</l>
             <l>
-               <pb n="106" facs="tcp:029659_0118_0FE2140609DA9928"/>When zeal to ſwords transform'd their ſhares,</l>
+               <pb n="106" facs="unknown:029659_0118_0FE2140609DA9928"/>When zeal to ſwords transform'd their ſhares,</l>
             <l>And turn'd their pruning-hooks to ſpears,</l>
             <l>Chang'd tailor's geeſe to guns and ball,</l>
             <l>And ſtretch'd to pikes the cobler's awl;</l>
@@ -3002,7 +3002,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>And like the muſic of the ſpheres,</l>
             <l>Mellifluous ſooth'd their vanquiſh'd ears.</l>
             <l>
-               <pb n="107" facs="tcp:029659_0119_0FE214079A310848"/>"Alas, ſaid I, what baleful ſtar,</l>
+               <pb n="107" facs="unknown:029659_0119_0FE214079A310848"/>"Alas, ſaid I, what baleful ſtar,</l>
             <l>Sheds fatal influence on the war,</l>
             <l>And who that choſen Chief of fame,</l>
             <l>That heads this grand parade of ſhame?</l>
@@ -3031,7 +3031,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>So Prior's wit gain'd greater pow'r,</l>
             <l>By inſpiration of the tow'r;</l>
             <l>
-               <pb n="108" facs="tcp:029659_0120_0FE2140AE1F02FC8"/>And Raleigh, faſt in priſon hurl'd,</l>
+               <pb n="108" facs="unknown:029659_0120_0FE2140AE1F02FC8"/>And Raleigh, faſt in priſon hurl'd,</l>
             <l>Wrote all the Hiſt'ry of the World:</l>
             <l>So Wilkes grew, while in goal he lay,</l>
             <l>More patriotic ev'ry day,</l>
@@ -3058,7 +3058,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>Then raiſe thy daring thoughts ſublime,</l>
             <l>And dip thy conqu'ring pen in rhyme,</l>
             <l>
-               <pb n="109" facs="tcp:029659_0121_0FE2140FC4155578"/>And changing war for puns and jokes,</l>
+               <pb n="109" facs="unknown:029659_0121_0FE2140FC4155578"/>And changing war for puns and jokes,</l>
             <l>Write new Blockades and Maids of Oaks. <note place="bottom">"* The Maid of the Oaks and the Blockade of Boſton, are farces —the firſt acknowledged by General Burgoyne, the other generally aſcribed to him."</note>"</l>
             <l>This ſaid, he turn'd, and ſaw the tale</l>
             <l>Had dy'd my trembling cheeks with pale;</l>
@@ -3081,7 +3081,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>Aloft the mighty <note n="†" place="bottom">Loring was a Refugee from Boſton, made commiſſary of priſo<g ref="char:EOLhyphen"/>ners by General Howe. The conſummate cruelties practiſed on the American priſoners under Loring's adminiſtration almoſt exceed the ordinary powers of human invention. If a ſimple ſtatement of facts relative to this buſineſs were properly drawn up and authenticated, it would furniſh the friends of humanity with new images of horror in contemplating the ravages of war; eſpecially a war that obtains the name of rebellion, and is carried on at a diſtance from the eye of the nation. The conduct of the Turks in putting all priſoners to death is certainly much more rational and humane, than that of the Britiſh army for the three firſt years of the American war, or till after the capture of Burgoyne. We except from this general obſervation, the conduct of Lord Dorcheſter in Canada; he acted on the common principles of war, as now practiſed in Europe.</note> Loring ſtood,</l>
             <l>And thriv'd, like <note place="bottom">"‡ The notion of Vampyres is a ſuperſtition, that has greatly pre<g ref="char:EOLhyphen"/>vailed in many parts of Europe. They pretend it is a dead body, which riſes out of its grave in the night, and ſucks the blood of the living."</note> Vampyre, on their blood;</l>
             <l>
-               <pb n="110" facs="tcp:029659_0122_0FE214115154C868"/>And counting all his gains ariſing,</l>
+               <pb n="110" facs="unknown:029659_0122_0FE214115154C868"/>And counting all his gains ariſing,</l>
             <l>Dealt daily rations out of poiſon.</l>
             <l>Amid the dead that croud the ſcene,</l>
             <l>The moving ſkeletons were ſeen.</l>
@@ -3100,7 +3100,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>Amaz'd, I cried, "Is this the way,</l>
             <l>That Britiſh Valor wins the day?"</l>
             <l>
-               <pb n="111" facs="tcp:029659_0123_0FE21412DEFC3488"/>More had I ſaid, in ſtrains unwelcome,</l>
+               <pb n="111" facs="unknown:029659_0123_0FE21412DEFC3488"/>More had I ſaid, in ſtrains unwelcome,</l>
             <l>Till interrupted thus by Malcolm:</l>
             <l>"Blame not, quoth he, but learn the reaſon</l>
             <l>Of this new mode of conqu'ring treaſon.</l>
@@ -3129,7 +3129,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>And hop'd they'd learn, on foes thus taken,</l>
             <l>To aim at rebels without ſhaking.</l>
             <l>
-               <pb n="112" facs="tcp:029659_0124_0FE2141547D14438"/>Then, wiſe in ſtratagem he plann'd</l>
+               <pb n="112" facs="unknown:029659_0124_0FE2141547D14438"/>Then, wiſe in ſtratagem he plann'd</l>
             <l>The ſure deſtruction of the land,</l>
             <l>Turn'd famine, ſickneſs, and deſpair,</l>
             <l>To uſeful enginry of war,</l>
@@ -3157,7 +3157,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>Of whole blood kin to Punic Faith;)</l>
             <l>Where all her God-like pow'rs unveiling,</l>
             <l>
-               <pb n="113" facs="tcp:029659_0125_0FE2141B609F8060"/>She finds a grateful ſhrine to dwell in.</l>
+               <pb n="113" facs="unknown:029659_0125_0FE2141B609F8060"/>She finds a grateful ſhrine to dwell in.</l>
             <l>Then, at this altar for her honour,</l>
             <l>Choſe this High-prieſt to wait upon her,</l>
             <l>Who with juſt rites, in ancient guiſes,</l>
@@ -3185,7 +3185,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>Like earthquake gapes, to death devote,</l>
             <l>That open ſepulchre, her throat;</l>
             <l>
-               <pb n="114" facs="tcp:029659_0126_0FE2141D11EF2FC0"/>The grave, or barren womb you'd ſtuff,</l>
+               <pb n="114" facs="unknown:029659_0126_0FE2141D11EF2FC0"/>The grave, or barren womb you'd ſtuff,</l>
             <l>And ſooner bring to cry, enough;</l>
             <l>Or fatten up to fair condition,</l>
             <l>The lean-fleſh'd kine of Pharaoh's viſion.</l>
@@ -3212,7 +3212,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>"Now turn, he cried, to nobler ſights,</l>
             <l>And mark the proweſs of our fights:</l>
             <l>
-               <pb n="115" facs="tcp:029659_0127_0FE2141EA1682790"/>Behold like whelps of Britiſh Lion,</l>
+               <pb n="115" facs="unknown:029659_0127_0FE2141EA1682790"/>Behold like whelps of Britiſh Lion,</l>
             <l>The warriors, Clinton, Vaughan, and Tryon,</l>
             <l>March forth with patriotic joy,</l>
             <l>To raviſh, plunder, burn, deſtroy.</l>
@@ -3241,7 +3241,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>Great Homer likens, in his Ilias,</l>
             <l>To dog-ſtar bright the fierce Achilles;</l>
             <l>
-               <pb n="116" facs="tcp:029659_0128_0FE2142109DB48F0"/>But ne'er beheld in red proceſſion,</l>
+               <pb n="116" facs="unknown:029659_0128_0FE2142109DB48F0"/>But ne'er beheld in red proceſſion,</l>
             <l>Three dog-ſtars riſe in conſtellation;</l>
             <l>Or ſaw in glooms of ev'ning miſty,</l>
             <l>Such ſigns of fiery triplicity,</l>
@@ -3269,7 +3269,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>Friends ever fail as fears increaſe.</l>
             <l>As leaves, in blooming verdure wove,</l>
             <l>
-               <pb n="117" facs="tcp:029659_0129_0FE2142739A1E418"/>In warmth of ſummer cloath the grove,</l>
+               <pb n="117" facs="unknown:029659_0129_0FE2142739A1E418"/>In warmth of ſummer cloath the grove,</l>
             <l>But when autumnal froſts ariſe,</l>
             <l>Leave bare their trunks to wintry ſkies;</l>
             <l>So while your pow'r can aid their ends,</l>
@@ -3289,7 +3289,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>Of promiſes and penitentials.</l>
             <l>As, for his fare o'er Styx of old,</l>
             <l>
-               <pb n="118" facs="tcp:029659_0130_0FE21428CB66F200"/>The Trojan ſtole the bough of gold,</l>
+               <pb n="118" facs="unknown:029659_0130_0FE21428CB66F200"/>The Trojan ſtole the bough of gold,</l>
             <l>And, leſt grim Cerb'rus ſhould make head,</l>
             <l>Stuff'd both his fobs with <note n="*" place="bottom">— Medicatam frugibus offam. Aeneid, lib. vi. 410</note> gingerbread;</l>
             <l>Behold at Britain's utmoſt ſhifts,</l>
@@ -3317,7 +3317,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>For ſtill th' event alike is fatal,</l>
             <l>Whate'er ſucceſs attend the battle,</l>
             <l>
-               <pb n="119" facs="tcp:029659_0131_0FE2142A65C140B0"/>If he gain victory, or loſe it,</l>
+               <pb n="119" facs="unknown:029659_0131_0FE2142A65C140B0"/>If he gain victory, or loſe it,</l>
             <l>Who ne'er had ſkill enough to uſe it;</l>
             <l>And better 'twere, at their expence,</l>
             <l>T' have drubb'd him into common ſenſe,</l>
@@ -3345,7 +3345,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>Steers home diſgrac'd, of little worth,</l>
             <l>To join Burgoyne, and rail at North.</l>
             <l>
-               <pb n="120" facs="tcp:029659_0132_0FE2142BF30F26D8"/>"Now raiſe thine eyes, and view with pleaſure,</l>
+               <pb n="120" facs="unknown:029659_0132_0FE2142BF30F26D8"/>"Now raiſe thine eyes, and view with pleaſure,</l>
             <l>The triumphs of his fam'd ſucceſſor."</l>
             <l>I look'd, and now by magic lore,</l>
             <l>Faint roſe to view the Jerſey ſhore;</l>
@@ -3375,13 +3375,13 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>When his tir'd bands, o'ermatch'd in ſight,</l>
             <l>Are reſcu'd by deſcending night,</l>
             <p>
-               <pb facs="tcp:029659_0133_0FE214332710DEA8"/>
+               <pb facs="unknown:029659_0133_0FE214332710DEA8"/>
                <figure>
                   <head>THE VISION.</head>
                </figure>
             </p>
             <l>
-               <pb n="121" facs="tcp:029659_0134_0FE21434DD597938"/>He forms his camp with vain parade,</l>
+               <pb n="121" facs="unknown:029659_0134_0FE21434DD597938"/>He forms his camp with vain parade,</l>
             <l>Till evening ſpreads the world with ſhade,</l>
             <l>Then ſtill, like ſome endanger'd ſpark,</l>
             <l>Steals off on tiptoe in the dark;</l>
@@ -3408,7 +3408,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>Her influence, which ſhall be your guide,</l>
             <l>And o'er your Gen'ralſhip preſide.</l>
             <l>
-               <pb n="122" facs="tcp:029659_0135_0FE2143670AEB908"/>Hence ſtill ſhall teem your empty ſkull,</l>
+               <pb n="122" facs="unknown:029659_0135_0FE2143670AEB908"/>Hence ſtill ſhall teem your empty ſkull,</l>
             <l>With vict'ries when the moon's at full,</l>
             <l>Which by tranſition yet more ſtrange,</l>
             <l>Wane to defeats before the change;</l>
@@ -3437,7 +3437,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>Behold his chiefs in daring ſets,</l>
             <l>D'Eſtaings, De Graſſes, and Fayettes,</l>
             <l>
-               <pb n="123" facs="tcp:029659_0136_0FE214380338B8E8"/>Spread thro' our camps their dread alarms,</l>
+               <pb n="123" facs="unknown:029659_0136_0FE214380338B8E8"/>Spread thro' our camps their dread alarms,</l>
             <l>And ſwell the fears of rebel-arms.</l>
             <l>Yet, ere our empire ſink in night,</l>
             <l>One gleam of hope ſhall ſtrike the ſight;</l>
@@ -3463,7 +3463,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>See, ſhrinking from his conqu'ring eye,</l>
             <l>The rebel legions fall or fly;</l>
             <l>
-               <pb n="124" facs="tcp:029659_0137_0FE2143F7AE5F120"/>And, with'ring in theſe torrid ſkies,</l>
+               <pb n="124" facs="unknown:029659_0137_0FE2143F7AE5F120"/>And, with'ring in theſe torrid ſkies,</l>
             <l>The northern laurel fades and dies<note n="*" place="bottom">This refers to the fortune of General Gates, who after having conquered General Burgoyne in the North, was defeated by Lord Cornwallis in the South.</note>.</l>
             <l>With rapid force he leads his band</l>
             <l>To fair Virginia's fated ſtrand,</l>
@@ -3486,7 +3486,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>I look'd, and far in ſouthern ſkies,</l>
             <l>Saw Greene, their ſecond hope, ariſe,</l>
             <l>
-               <pb n="125" facs="tcp:029659_0138_0FE1BE5642DF9498"/>And with his ſmall but gallant band,</l>
+               <pb n="125" facs="unknown:029659_0138_0FE1BE5642DF9498"/>And with his ſmall but gallant band,</l>
             <l>Invade the Carolinian land.</l>
             <l>As winds in ſtormy circles whirl'd</l>
             <l>Ruſh billowing o'er the darken'd world,</l>
@@ -3515,7 +3515,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>And Rochambeau, with legions bright,</l>
             <l>Deſcends in terrors to the fight.</l>
             <l>
-               <pb n="126" facs="tcp:029659_0139_0FE21442DABFBF70"/>Not ſwifter cleaves his rapid way,</l>
+               <pb n="126" facs="unknown:029659_0139_0FE21442DABFBF70"/>Not ſwifter cleaves his rapid way,</l>
             <l>The eagle cow'ring o'er his prey,</l>
             <l>Or knights in fam'd romance that fly</l>
             <l>On fairy pinions thro' the ſky.</l>
@@ -3546,7 +3546,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>Their faces length'ning with their fears,</l>
             <l>And checks diſtain'd with ſtreams of tears,</l>
             <l>
-               <pb n="127" facs="tcp:029659_0140_0FE214466400DF88"/>Like <hi>dramatis perſonae</hi> ſage,</l>
+               <pb n="127" facs="unknown:029659_0140_0FE214466400DF88"/>Like <hi>dramatis perſonae</hi> ſage,</l>
             <l>Equipt to act on Tyburn's ſtage.</l>
             <l>Lo theſe are they, who, lur'd by follies,</l>
             <l>Left all and follow'd great Cornwallis;</l>
@@ -3575,7 +3575,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>And victims, due to Rebel-glories,</l>
             <l>Gives this ſin off'ring up of Tories.</l>
             <l>
-               <pb n="128" facs="tcp:029659_0141_0FE2144AB0F99518"/>See where, reliev'd from ſad embargo,</l>
+               <pb n="128" facs="unknown:029659_0141_0FE2144AB0F99518"/>See where, reliev'd from ſad embargo,</l>
             <l>Steer off conſign'd a recreant cargo,</l>
             <l>Like old ſcape-goats to roam in pain,</l>
             <l>Mark'd like their great fore-runner, Cain.</l>
@@ -3608,7 +3608,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>For know that Fate's auſpicious door,</l>
             <l>Once ſhut to flight, is op'd no more,</l>
             <l>
-               <pb n="129" facs="tcp:029659_0142_0FE2144D3ACF30E8"/>Nor wears its hinge by various ſtations,</l>
+               <pb n="129" facs="unknown:029659_0142_0FE2144D3ACF30E8"/>Nor wears its hinge by various ſtations,</l>
             <l>Like Mercy's door in proclamations.<note n="*" place="bottom">
                   <hi>The door of mercy is now open,</hi> and <hi>the door of mercy will be ſhut,</hi> were phraſes ſo often uſed in the proclamations of the Britiſh Gene<g ref="char:EOLhyphen"/>rals in America, that our Poet ſeems to fear that the hinge of that door will be worn out. A general collection of theſe proclamations, or an abridgement of them compriſed in a few volumes, would form a curious ſyſtem of rhetorical tactics; which might be of great utility to the French emigrant princes, and to thoſe potentates of Europe, who are <hi>going</hi> to ſubdue the ſpirit of Liberty in France.</note>
             </l>
@@ -3634,7 +3634,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>Honour, his buſineſs at a ſtand,</l>
             <l>For fear of ſtarving quits the land;</l>
             <l>
-               <pb n="130" facs="tcp:029659_0143_0FE2144FA2DF7998"/>And Juſtice, long diſgraced at Court, had</l>
+               <pb n="130" facs="unknown:029659_0143_0FE2144FA2DF7998"/>And Juſtice, long diſgraced at Court, had</l>
             <l>By Mansfield's ſentence been tranſported.</l>
             <l>Vict'ry and Fame attend their way,</l>
             <l>Tho' Britain wiſh their longer ſtay,</l>
@@ -3663,7 +3663,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>What danger from a Pow'r ſo vain,</l>
             <l>And why he joins that ſplendid train?"</l>
             <l>
-               <pb n="131" facs="tcp:029659_0144_0FE21456C83CEEB8"/>"Alas, great Malcolm cry'd, experience</l>
+               <pb n="131" facs="unknown:029659_0144_0FE21456C83CEEB8"/>"Alas, great Malcolm cry'd, experience</l>
             <l>Might teach you not to truſt appearance.</l>
             <l>Here ſtands, as dreſt by fierce Bellona,</l>
             <l>The ghoſt of Continental Money,</l>
@@ -3692,7 +3692,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>Provide for preſent wants and future,</l>
             <l>Raiſe armies, victual, clothe, accoutre,</l>
             <l>
-               <pb n="132" facs="tcp:029659_0145_0FE214512F182ED0"/>Adjourn our conqueſts by eſſoigne,</l>
+               <pb n="132" facs="unknown:029659_0145_0FE214512F182ED0"/>Adjourn our conqueſts by eſſoigne,</l>
             <l>Check Howe's advance, and take Burgoyne,</l>
             <l>Then make all days of payment vain,</l>
             <l>And turns all back to rags again.</l>
@@ -3721,7 +3721,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>Its ſmall extenſion long ſupply'd</l>
             <l>By vaſt immenſity of pride;</l>
             <l>
-               <pb n="133" facs="tcp:029659_0146_0FE2145859C31F90"/>So ſmall, that had it found a ſtation</l>
+               <pb n="133" facs="unknown:029659_0146_0FE2145859C31F90"/>So ſmall, that had it found a ſtation</l>
             <l>In this new world at firſt creation,</l>
             <l>Or were by Juſtice doom'd to ſuffer,</l>
             <l>And for its crimes tranſported over,</l>
@@ -3742,7 +3742,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>While joyous Holland, France, and Spain,</l>
             <l>With conqu'ring navies rule the main,</l>
             <l>
-               <pb n="134" facs="tcp:029659_0147_0FE21459E63DFE48"/>And Ruſſian banners, wide unfurl'd,</l>
+               <pb n="134" facs="unknown:029659_0147_0FE21459E63DFE48"/>And Ruſſian banners, wide unfurl'd,</l>
             <l>Spread commerce round the eaſtern world,</l>
             <l>And ſee (ſight hateful and tormenting)</l>
             <l>Th' Amer'can empire, proud and vaunting,</l>
@@ -3771,7 +3771,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>And with rude bangs and loud uproar,</l>
             <l>'Gan thunder furious at the door.</l>
             <l>
-               <pb n="135" facs="tcp:029659_0148_0FE2145C61152978"/>The lights put out, each Tory calls</l>
+               <pb n="135" facs="unknown:029659_0148_0FE2145C61152978"/>The lights put out, each Tory calls</l>
             <l>To cover him, on cellar walls,</l>
             <l>Creeps in each box, or bin, or tub,</l>
             <l>To hide his head from wrath of mob,</l>
@@ -3800,7 +3800,7 @@ and cannot ſail to give it a decided pre<g ref="char:EOLhyphen"/>ference.</p>
             <l>To tarring feath'ring, kicks, and drubs</l>
             <l>Of furious, diſappointed mobs,</l>
             <l>
-               <pb n="136" facs="tcp:029659_0149_0FE214414DD57548"/>And with their forfeit hides to pay</l>
+               <pb n="136" facs="unknown:029659_0149_0FE214414DD57548"/>And with their forfeit hides to pay</l>
             <l>For him, their leader crept away.</l>
             <l>So when wiſe Noah ſummon'd greeting</l>
             <l>All animals to gen'ral meeting;</l>
